@@ -66,6 +66,3 @@ npm install
 npm run dev
 ```
 
-
-git clone https://github.com/0xAnuR4g/podium-ai.git
-cd podium-ai
