@@ -44,7 +44,7 @@ cd podium-ai
 #### 2. Setup Backend
 
 ```
-cd backend
+cd podium-ai-backend
 uv venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 uv pip install -r requirements.txt
@@ -61,7 +61,7 @@ uv run fastapi dev main.py
 ```
 #### 3. Setup Frontend (Next.js)
 ```
-cd frontend
+cd podium-ai-frontend
 npm install
 npm run dev
 ```
